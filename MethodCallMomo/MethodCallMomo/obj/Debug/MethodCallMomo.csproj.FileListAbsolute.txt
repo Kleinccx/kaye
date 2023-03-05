@@ -1,0 +1,8 @@
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\bin\Debug\MethodCallMomo.exe.config
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\bin\Debug\MethodCallMomo.exe
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\bin\Debug\MethodCallMomo.pdb
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\obj\Debug\MethodCallMomo.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\obj\Debug\MethodCallMomo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\obj\Debug\MethodCallMomo.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\obj\Debug\MethodCallMomo.exe
+C:\Users\Klein\Desktop\MethodCallMomo\MethodCallMomo\obj\Debug\MethodCallMomo.pdb
